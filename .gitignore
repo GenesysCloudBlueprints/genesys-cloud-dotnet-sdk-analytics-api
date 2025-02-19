@@ -1,0 +1,36 @@
+# Ignore .NET build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore temporary files
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# Ignore build results
+*.dll
+*.exe
+*.app
+*.pdb
+
+# Ignore package directories
+packages/
+node_modules/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vssscc
+*.sln.docstates
+
+# Ignore other files
+*.DS_Store
+*.bak
+*.swp
