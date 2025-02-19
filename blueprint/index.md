@@ -1,5 +1,5 @@
 ---
-title: Genesys Cloud .NET SDK - Query Conversation Data and Subcribe to Interactions Notication on a Queue via Websocket
+title: Genesys Cloud .NET SDK - Query Conversation data and Monitor Queue Analytics in Real-time via WebSocket Notifications
 author: iyin.raphael
 indextype: blueprint
 icon: blueprint
